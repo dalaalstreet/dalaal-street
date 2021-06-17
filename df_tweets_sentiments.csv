@@ -1,0 +1,114 @@
+Date,Sentiment on Date,Subjectivity on Day,Sentiment Value,Subjectivity value
+2020-01-20,Negative,Highly Subjective,-0.05,0.390104167
+2020-01-21, Slightly Positive,Slightly Subjective,0.136363636,0.5
+2020-01-22,Neutral,Objective,0,0
+2020-01-23,Negative,Slightly Subjective,-0.052272727,0.475757576
+2020-01-24, Slightly Positive,Slightly Subjective,0.212337662,0.479220779
+2020-01-25, Slightly Positive,Slightly Subjective,0.266666667,0.566666667
+2020-01-26, Slightly Positive,Highly Subjective,0.3,0.375
+2020-01-27, Slightly Positive,Slightly Subjective,0.246428571,0.646428571
+2020-01-28, Slightly Positive,Slightly Subjective,0.2575,0.574166667
+2020-01-29, Slightly Positive,Slightly Subjective,0.19533086,0.405442177
+2020-01-30, Slightly Positive,Slightly Subjective,0.108333333,0.477777778
+2020-02-13, Slightly Positive,Slightly Subjective,0.136363636,0.5
+2020-02-14, Slightly Positive,Slightly Subjective,0.288365801,0.579329004
+2020-02-15, Highly Positive,Slightly Subjective,0.5,0.635714286
+2020-02-16,Negative,Highly Subjective,-0.016666667,0.35
+2020-02-17, Slightly Positive,Slightly Subjective,0.266666667,0.833333333
+2020-02-18, Slightly Positive,Slightly Subjective,0.286666667,0.59
+2020-02-19, Slightly Positive,Slightly Subjective,0.236904762,0.547619048
+2020-02-20, Highly Positive,Slightly Subjective,0.50952381,0.714285714
+2020-02-21,Positive,Slightly Subjective,0.4,0.566666667
+2020-02-22,Positive,Slightly Subjective,0.48,0.6
+2020-02-23,Positive,Slightly Subjective,0.41122449,0.470408163
+2020-02-24, Slightly Positive,Slightly Subjective,0.1875,0.525
+2020-02-25, Slightly Positive,Slightly Subjective,0.120616883,0.438690476
+2020-02-26, Slightly Positive,Slightly Subjective,0.277040816,0.555102041
+2020-02-27, Slightly Positive,Slightly Subjective,0.123636364,0.45
+2020-03-19, Slightly Positive,Slightly Subjective,0.375,0.5
+2020-03-20, Slightly Positive,Slightly Subjective,0.183396465,0.475757576
+2020-03-21, Slightly Positive,Slightly Subjective,0.17797619,0.474404762
+2020-03-22, Slightly Positive,Slightly Subjective,0.174880383,0.469776715
+2020-03-23,Neutral,Slightly Subjective,0.038492063,0.462698413
+2020-03-24, Slightly Positive,Slightly Subjective,0.364285714,0.571428571
+2020-03-25,Neutral,Slightly Subjective,0.0875,0.4575
+2020-03-26,Neutral,Objective,0,0.166666667
+2020-03-27, Slightly Positive,Slightly Subjective,0.337037037,0.496296296
+2020-03-28, Slightly Positive,Slightly Subjective,0.24,0.52
+2020-03-29, Highly Positive,Slightly Subjective,0.8,1
+2020-04-24, Slightly Positive,Slightly Subjective,0.365104167,0.666666667
+2020-04-25, Slightly Positive,Highly Subjective,0.166666667,0.283333333
+2020-04-26, Slightly Positive,Slightly Subjective,0.301320901,0.557536908
+2020-04-27, Slightly Positive,Slightly Subjective,0.186571392,0.541382114
+2020-04-28, Slightly Positive,Slightly Subjective,0.38,0.613333333
+2020-04-29, Slightly Positive,Highly Subjective,0.203763441,0.34516129
+2020-05-27,Negative,Highly Subjective,-0.05,0.23125
+2020-05-28, Slightly Positive,Slightly Subjective,0.1875,0.516666667
+2020-05-29,Negative,Slightly Subjective,-0.045026679,0.524944629
+2020-06-24,Negative,Highly Subjective,-0.022222222,0.266666667
+2020-06-25, Slightly Positive,Highly Subjective,0.147420147,0.363513514
+2020-06-26, Slightly Positive,Highly Subjective,0.1484375,0.29765625
+2020-06-27, Slightly Positive,Slightly Subjective,0.291269841,0.6
+2020-06-28, Highly Positive,Slightly Subjective,0.8,1
+2020-06-29,Neutral,Highly Subjective,0.01978022,0.343589744
+2020-07-27, Slightly Positive,Highly Subjective,0.259469697,0.351515152
+2020-07-28,Neutral,Highly Subjective,0.032226107,0.221386946
+2020-07-29, Slightly Positive,Highly Subjective,0.113022113,0.366707617
+2020-08-23, Slightly Positive,Highly Subjective,0.100892857,0.246428571
+2020-08-24, Slightly Positive,Slightly Subjective,0.272727273,0.584090909
+2020-08-25,Neutral,Slightly Subjective,0.066666667,0.597222222
+2020-08-26, Slightly Positive,Slightly Subjective,0.294099327,0.48969697
+2020-08-27,Negative,Slightly Subjective,-0.078535354,0.489141414
+2020-08-28,Negative,Slightly Subjective,-0.176470588,0.400980392
+2020-08-29,Positive,Slightly Subjective,0.434375,0.605208333
+2020-09-27,Neutral,Objective,0,0
+2020-09-28, Slightly Positive,Highly Subjective,0.235353535,0.3998557
+2020-09-29, Slightly Positive,Slightly Subjective,0.240503247,0.632948995
+2020-10-27, Slightly Positive,Slightly Subjective,0.256313131,0.53030303
+2020-10-28, Slightly Positive,Slightly Subjective,0.204550734,0.412678175
+2020-10-29, Slightly Positive,Slightly Subjective,0.24664903,0.501358826
+2020-11-20, Slightly Positive,Highly Subjective,0.138279221,0.387597403
+2020-11-21,Neutral,Objective,0,0.1
+2020-11-22, Slightly Positive,Slightly Subjective,0.229591837,0.562244898
+2020-11-23, Slightly Positive,Slightly Subjective,0.235113636,0.616212121
+2020-11-24, Highly Negative,Slightly Subjective,-0.375,0.75
+2020-11-25,Neutral,Highly Subjective,0.057142857,0.383730159
+2020-11-26,Neutral,Slightly Subjective,0.095361781,0.406895485
+2020-11-27,Neutral,Slightly Subjective,0.037202381,0.430059524
+2020-11-28, Slightly Positive,Highly Subjective,0.1,0.39375
+2020-11-29,Negative,Objective,-0.065104167,0.066666667
+2020-12-25,Neutral,Slightly Subjective,0.057560976,0.483089431
+2020-12-26, Slightly Positive,Slightly Subjective,0.263636364,0.471212121
+2020-12-27, Slightly Positive,Slightly Subjective,0.317857143,0.610714286
+2020-12-28, Slightly Positive,Slightly Subjective,0.163636364,0.595454545
+2020-12-29,Neutral,Highly Subjective,0.027807487,0.265240642
+2021-01-26,Negative,Highly Subjective,-0.008333333,0.257777778
+2021-01-27,Neutral,Highly Subjective,0.084166667,0.312361111
+2021-01-28, Slightly Positive,Slightly Subjective,0.208307453,0.456418219
+2021-01-29, Slightly Positive,Slightly Subjective,0.336126894,0.516287879
+2021-01-30, Slightly Positive,Highly Subjective,0.125429035,0.284508349
+2021-02-22,Neutral,Slightly Subjective,0.060714286,0.496428571
+2021-02-23, Slightly Positive,Highly Subjective,0.212254464,0.291056548
+2021-02-24,Neutral,Highly Subjective,0.061656746,0.344642857
+2021-02-25,Neutral,Slightly Subjective,0.039285714,0.457142857
+2021-02-26, Slightly Positive,Slightly Subjective,0.38,0.51
+2021-02-27, Highly Positive,Slightly Subjective,0.575,0.567361111
+2021-03-27, Slightly Positive,Highly Subjective,0.110876623,0.356493506
+2021-03-28, Slightly Positive,Highly Subjective,0.106825397,0.351746032
+2021-03-29,Neutral,Objective,0.016631494,0.053474026
+2021-04-17, Highly Negative,Slightly Subjective,-0.533333333,0.544444444
+2021-04-18, Slightly Positive,Slightly Subjective,0.144051309,0.458264463
+2021-04-19,Neutral,Slightly Subjective,0.074545455,0.401818182
+2021-04-20, Slightly Positive,Highly Subjective,0.20785124,0.391322314
+2021-04-21, Highly Positive,Slightly Subjective,0.6,0.7
+2021-04-22, Slightly Positive,Highly Subjective,0.124350649,0.352597403
+2021-04-23, Slightly Positive,Objective,0.135227273,0.196590909
+2021-04-24,Positive,Slightly Subjective,0.45,0.609722222
+2021-04-25,Neutral,Slightly Subjective,0.0875,0.516666667
+2021-04-26, Slightly Positive,Highly Subjective,0.128571429,0.361904762
+2021-04-27, Slightly Positive,Slightly Subjective,0.37,0.5175
+2021-04-28, Slightly Positive,Slightly Subjective,0.272,0.433
+2021-04-29, Slightly Positive,Slightly Subjective,0.34,0.593333333
+2021-05-27, Slightly Positive,Slightly Subjective,0.167058824,0.600588235
+2021-05-28, Slightly Positive,Slightly Subjective,0.145123967,0.51768595
+2021-05-29,Negative,Slightly Subjective,-0.05,0.633333333
